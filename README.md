@@ -17,9 +17,6 @@ A simple cross-platform app built using **Flutter** that allows users to:
 
 
 ---
-## 📽 Demo Video
-
-👉 [Click to watch demo](https://github.com/sundaramawasthi/Basti-ki-Pathshala/blob/master/demo.mp4)
 
 ## 🔧 Built With
 
@@ -37,7 +34,6 @@ A simple cross-platform app built using **Flutter** that allows users to:
 - 📝 **Volunteer Form**: Input fields for name, phone number, and city  
 - 📲 **Navigation**: Drawer to switch between pages  
 - ✅ **Validation**: Ensures form is properly filled  
-- 🎉 **Success Feedback**: Lottie animation or snackbar after submission  
 
 ---
 
