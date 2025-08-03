@@ -1,16 +1,42 @@
-# bastikipathshala
+# 🤝 NGO Volunteer App (Flutter)
 
-A new Flutter project.
+A simple cross-platform app built using **Flutter** that allows users to:
 
-## Getting Started
+- Learn about an NGO
+- Join as a volunteer by submitting their Name, Phone, and City
+- Navigate easily between pages using a Drawer
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Home Page | Volunteer Form |
+|-----------|----------------|
+| ![Home](screenshots/home.png) | ![Form](screenshots/form.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔧 Built With
+
+- **Flutter (Dart)**
+- Clean UI design
+- Material widgets
+- Responsive layout
+- Navigation Drawer
+
+---
+
+## 🎯 Features
+
+- 🏠 **Home Page**: Displays NGO logo, welcome message, and about text  
+- 📝 **Volunteer Form**: Input fields for name, phone number, and city  
+- 📲 **Navigation**: Drawer to switch between pages  
+- ✅ **Validation**: Ensures form is properly filled  
+- 🎉 **Success Feedback**: Lottie animation or snackbar after submission  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK: [Install Guide](https://flutter.dev/docs/get-)
