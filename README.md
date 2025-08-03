@@ -9,10 +9,12 @@ A simple cross-platform app built using **Flutter** that allows users to:
 ---
 
 ## 📱 Screenshots
+## 📱 Screenshots
 
 | Home Page | Volunteer Form |
 |-----------|----------------|
-| ![Home]screenshots/Homepage1.jpg | ![Form](Homepag1.jpg) |
+| ![Home](Homepage1.jpg) | ![Form](menu.jpg) |
+
 
 ---
 
