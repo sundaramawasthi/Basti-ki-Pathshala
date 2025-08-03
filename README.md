@@ -12,7 +12,9 @@ A simple cross-platform app built using **Flutter** that allows users to:
 
 | Home Page | Volunteer Form |
 |-----------|----------------|
-| ![Home](homepage.jpg) | ![Form](Homepag1.jpg) |
+| ![Home](Homepage1.jpg) | ![Form](menu.jpg) | 
+![Home](Homepage.jpg) 
+
 
 ---
 
@@ -32,7 +34,6 @@ A simple cross-platform app built using **Flutter** that allows users to:
 - 📝 **Volunteer Form**: Input fields for name, phone number, and city  
 - 📲 **Navigation**: Drawer to switch between pages  
 - ✅ **Validation**: Ensures form is properly filled  
-- 🎉 **Success Feedback**: Lottie animation or snackbar after submission  
 
 ---
 
