@@ -12,7 +12,7 @@ A simple cross-platform app built using **Flutter** that allows users to:
 
 | Home Page | Volunteer Form |
 |-----------|----------------|
-| ![Home](screenshots/home.png) | ![Form](screenshots/form.png) |
+| ![Home](homepage.jpg) | ![Form](Homepag1.jpg) |
 
 ---
 
